@@ -126,11 +126,6 @@ The Merchant Dashboard allows merchants to handle various aspects of their busin
     - `200 OK`
     - Error message
 
-## Security Features 🛡️
-
-- **Two-Factor Authentication (2FA)**
-- **IP Whitelisting**
-- **Login Activity Tracking**
 
 ---
 
